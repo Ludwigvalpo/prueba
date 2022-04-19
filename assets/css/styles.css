@@ -32,8 +32,12 @@ body {
     width: 500px;
     height: 30px;
 }
-
+/*Destacados*/
 #Destacados {
     background-color: rgb(23, 23, 23);
     color: white;
+}
+
+.card {
+    background-color: #0aa2c0;
 }
