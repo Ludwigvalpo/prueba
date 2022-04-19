@@ -29,7 +29,7 @@ body {
 .rectangulo {
     background-color: #0aa2c0;
     border: 2px solid black;
-    width: 500px;
+    width: 500px8;
     height: 30px;
 }
 /*Destacados*/
@@ -40,4 +40,55 @@ body {
 
 .card {
     background-color: #0aa2c0;
+}
+
+/*Contacto*/
+#Contacto {
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
+
+.rectangulo1 {
+    height: 40px;
+    width: 95%;
+    margin: 10px;
+    color: #707070;
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+}
+
+.rectangulo2 {
+    height: 100px;
+    width: 95%;
+    margin: 10px;
+    color: #707070;
+    background-color: #ffffff;
+    padding: 10px;
+    align-items: center;
+    text-align: left;
+    font-size: 16px;
+}
+
+.enviar {
+    height: 40px;
+    width: 113px;
+    margin: 10px;
+    color: #ffffff;
+    background-color: #0aa2c0;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+}
+
+#Footer {
+    background-color: #0aa2c0;
+}
+
+#Footer a {
+    color: white;
+    text-decoration: none;
+
 }
