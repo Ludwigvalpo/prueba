@@ -6,6 +6,7 @@ body {
 
 .navbar {
     background-color: transparent;
+    color: white;
     position: fixed;
     width: 100vw;
     z-index: 1;
